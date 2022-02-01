@@ -1,0 +1,55 @@
+.langlist{
+    justify-content:space-between;
+    display: flex;
+    flex-direction:row;
+    
+}
+
+.courselist{
+    display: flex;
+    align-items:center;
+    flex-direction:column-reverse;
+    margin:100px
+}
+body {
+    
+    background-color: skyblue;
+   }
+.langone{
+    border: 1px solid red;
+}
+.langtwo {
+    border: 1px solid red;
+}
+.langthree{
+    border: 1px solid red;
+}
+ .langfour {
+    border: 1px solid red;
+}
+ .langfive {
+    border: 1px solid red;
+}
+ .langsix {
+    border: 1px solid red;
+}
+ .langseven{
+    border: 1px solid red;
+}
+
+img {
+    float: right;
+    width:  100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.name{
+    font-size: xxx-large;
+}
+
+.edu{
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+  }
