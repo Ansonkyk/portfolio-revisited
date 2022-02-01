@@ -27,7 +27,7 @@ body {
  .langfour {
     border: 1px solid red;
 }
- .langfive {
+ .lanfive {
     border: 1px solid red;
 }
  .langsix {
@@ -53,3 +53,20 @@ img {
     background-color: lightblue;
     text-align: center;
   }
+
+  .acttitles {
+    border: 1px dashed turquoise;
+    font-size: xx-large;
+    font-variant: initial;
+}
+
+.actbody{
+    font-size: x-small;
+    font-style: italic;
+}
+
+.contactinfo{
+    font-size: xx-small;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
